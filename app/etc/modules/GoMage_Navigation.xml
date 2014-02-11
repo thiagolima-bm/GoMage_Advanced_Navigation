@@ -17,6 +17,9 @@
         <GoMage_Navigation>
             <active>true</active>
             <codePool>local</codePool>
+            <depends>
+                <OrganicInternet_SimpleConfigurableProducts/>
+            </depends>
         </GoMage_Navigation>
 	</modules>
 </config>
